@@ -88,15 +88,15 @@
     alt="GitHub Stats"
     height="150"
     style="padding-right: 10px;"
-    src="https://github-readme-stats-zeta-five-58.vercel.app/api?username=kpybara&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&theme=monokai&custom_title=Minhas%20Estatisticas%20do%20GitHub"
-    />
+    src="https://github-readme-stats.vercel.app/api?username=kpybara&show_icons=true&locale=pt-br&hide=contribs&include_all_commits=true&cache_seconds=1800&theme=monokai&custom_title=Minhas%20Estatisticas%20do%20GitHub"
+  />
 
   <img
     align="left"
     alt="Top Languages"
     height="150"
-    src="https://github-readme-stats-zeta-five-58.vercel.app/api/top-langs/?username=kpybara&layout=compact&custom_title=Stack&langs_count=8&theme=monokai&cache_seconds=1800"
-    />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpybara&layout=compact&custom_title=Stack&langs_count=8&theme=monokai&cache_seconds=1800"
+  />
 </p>
 
 <br clear="both">
